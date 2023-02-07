@@ -1,3 +1,5 @@
+Note: It's original step by step tutorial what was removed from directus docs.  
+
 # Google Cloud Platform
 
 While there are many different ways to run Directus on GCP, from single
