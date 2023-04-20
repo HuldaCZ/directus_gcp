@@ -1,4 +1,4 @@
-Note: It's original step by step tutorial what was removed from directus docs.  
+Note: It's original step by step tutorial that was removed from directus docs.  
 
 # Google Cloud Platform
 
