@@ -1,5 +1,9 @@
 Note: It's original step by step tutorial that was removed from directus docs.  
 
+Run directus locally: 
+https://www.npmjs.com/package/create-directus-project
+
+
 # Google Cloud Platform
 
 While there are many different ways to run Directus on GCP, from single
